@@ -1,6 +1,6 @@
 ﻿# PDFwithRazorPages
 
-## Edit codes as followings
+## Edit codes as followings from Template Project
 
 copy Rotativa/ folder from [Wkhtmltopdf.NetCore.Example repo](https://github.com/fpanaccia/Wkhtmltopdf.NetCore.Example)
 
